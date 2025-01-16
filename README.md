@@ -65,8 +65,6 @@ This platform is designed to meet the dynamic needs of the freelance community. 
 ### **Mobile App Interface**
 ![Mobile App Screenshot](https://i.postimg.cc/CxhBGSnF/image.png)
 
-(Replace these placeholders with actual screenshots of your platform for better appeal.)
-
 ---
 
 ## 📌 Retention Policy Reminder
